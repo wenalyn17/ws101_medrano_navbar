@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101_medrano_navbar/static/css/main.093a1a39.css",
+    "main.js": "/ws101_medrano_navbar/static/js/main.bdfba593.js",
+    "index.html": "/ws101_medrano_navbar/index.html",
+    "main.093a1a39.css.map": "/ws101_medrano_navbar/static/css/main.093a1a39.css.map",
+    "main.bdfba593.js.map": "/ws101_medrano_navbar/static/js/main.bdfba593.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.093a1a39.css",
+    "static/js/main.bdfba593.js"
+  ]
+}
